@@ -1,0 +1,8 @@
+{
+  "name": "NutriVision DL - Food Recognition & Calorie Estimation",
+  "description": "Deep learning food image recognition, multi-item bounding box detection, and precise calorie and macronutrient estimation powered by computer vision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
